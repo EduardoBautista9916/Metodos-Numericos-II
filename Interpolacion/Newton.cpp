@@ -1,0 +1,5 @@
+
+
+void comenzarInterpolacion(struct *matriz){
+    
+}
